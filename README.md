@@ -1,4 +1,4 @@
-Journal De Bord
+##Journal De Bord
 
 11 février 2025 à 18h00 ( link : https://www.notretemps.com/depeches/l-ia-generative-open-source-au-coeur-des-enjeux-du-sommet-pour-l-ia-108281 )
 
